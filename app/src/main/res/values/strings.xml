@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Prac6</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="id">Id del libro</string>
+    <string name="name">Nombre</string>
+    <string name="nombrelib">Nombre del libro</string>
+    <string name="phone">Autor</string>
+    <string name="create">Registrar</string>
+    <string name="read">Buscar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="telefono">Teléfono</string>
+    <string name="autor">Autor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
